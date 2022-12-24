@@ -1,0 +1,4 @@
+﻿  test.c
+D:\c语言练习\text-12-24\text-12-24\test.c(131,2): warning C4047: “!=”:“int”与“void *”的间接级别不同
+D:\c语言练习\text-12-24\text-12-24\test.c(132,2): warning C4047: “!=”:“int”与“void *”的间接级别不同
+  text-12-24.vcxproj -> D:\c语言练习\text-12-24\Debug\text-12-24.exe
